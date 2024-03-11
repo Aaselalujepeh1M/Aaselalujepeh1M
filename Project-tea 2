@@ -1,0 +1,29 @@
+{
+    'HKCU\\SOFTWARE': {
+        exists: true,
+        keys: [ 'Google', 'Microsoft', ... more direct sub keys ]
+        values: {
+            'valueName': {
+                value: '123',
+                type: 'REG_SZ'
+            }
+            ... more direct child values of HKCU\\SOFTWARE
+        }
+    },
+    'HKLM\\SOFTWARE': {
+        exists: true,
+        keys: [ 'Google', 'Microsoft', ... more direct sub keys ]
+        values: {
+            'valueName': {
+                value: '123',
+                type: 'REG_SZ'
+            }
+            ... more direct child values of HKLM\\SOFTWARE
+        }
+    },
+    'HKCU\\IM_FAKE_THEREFOR_I_DONT_EXIST': {
+        exists: false,
+        keys: [],
+        values: {}
+    }
+}
