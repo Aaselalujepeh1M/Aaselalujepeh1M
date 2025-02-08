@@ -1,23 +1,31 @@
 <div align="center">
-  <h1>Kartu Nama</h1>
-  <h2>Gilang maulana</h2>
-  <p><strong>Software Engineer</strong></p>
-  <p>Tech Corp</p>
-  
-  <p>GitHub: <a href="https://github.com/Aaselalujepeh1?">Gilangm</a></p>
-  <p>Alamat: Indonesia</p>
-  <h3>Skills</h3>
-  <ul>
-    <li>JavaScript</li>
-    <li>Python</li>
-    <li>React</li>
-    <li>Node.js</li>
-    <li>SQL</li>
-  </ul>
-  <h3>Hobi</h3>
-  <ul>
-    <li>Membaca</li>
-    <li>Bermain game</li>
-    <li>Traveling</li>
-  </ul>
+
+# 🚀 MY CARD  🚀
+
+## 👨‍💻 **M Gilang** 👨‍💻
+
+### 🛠️ **Software Engineer** 🛠️
+
+---
+
+### 📧 **contact**
+- 🔗 X/Twitter: [MGilang]([https://www.linkedin.com/in/johndoe](https://x.com/itsplutoheree?t=VOfxuZgDdpLZyY4yqDkP9A&s=09))
+- 🐱 GitHub: [Aaselalujepeh1M](https://github.com/Aaselalujepeh1M)
+
+---
+
+### 🏢 **COUNTRY**
+**Tech Corp**  
+📍 Indonesia
+
+---
+
+### 💻 **Skills**
+| **Frontend** | **Backend** | **Tools** |
+|--------------|-------------|-----------|
+| HTML         | Node.js     | Git       |
+| CSS          | Python      | Docker    |
+| JavaScript   | SQL         | VS Code   |
+| React        | Express.js  | Postman   |
+
 </div>
