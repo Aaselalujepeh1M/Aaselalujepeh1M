@@ -1,31 +1,23 @@
 <div align="center">
 
-# 🚀 MY CARD  🚀
+# 👋 Hello, I'm M Gilang
 
-## 👨‍💻 **M Gilang** 👨‍💻
-
-### 🛠️ **Software Engineer** 🛠️
+### 💻 **Software Engineer** | 🌍 **, Indonesia**
 
 ---
 
-### 📧 **contact**
-- 🔗 X/Twitter: [MGilang]([https://www.linkedin.com/in/johndoe](https://x.com/itsplutoheree?t=VOfxuZgDdpLZyY4yqDkP9A&s=09))
-- 🐱 GitHub: [Aaselalujepeh1M](https://github.com/Aaselalujepeh1M)
+📧
+🔗 **X**: [John Doe]([https://www.linkedin.com/in/johndoe](https://x.com/itsplutoheree?t=8XXg34PZRr0phU-5ayq1fA&s=09))  
+🐱 **GitHub**: [Aaselalujepeh1M](https://github.com/Aaselalujepeh1M)
 
 ---
 
-### 🏢 **COUNTRY**
-**Tech Corp**  
-📍 Indonesia
+### 🛠️ **Tech Stack**
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Python, Express.js
+- **Tools**: Git, Docker, VS Code
 
 ---
 
-### 💻 **Skills**
-| **Frontend** | **Backend** | **Tools** |
-|--------------|-------------|-----------|
-| HTML         | Node.js     | Git       |
-| CSS          | Python      | Docker    |
-| JavaScript   | SQL         | VS Code   |
-| React        | Express.js  | Postman   |
 
 </div>
